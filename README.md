@@ -16,4 +16,4 @@ Usage terminal3.py image_path [width]
 Converting an image of The Plague:
 ![Alt text](./god2.png)
 ends up looking like this:
-![Alt text](./terminal3\ example.png)
+![Alt text](./terminal3example.png)
