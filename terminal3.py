@@ -58,7 +58,7 @@ if __name__ == "__main__":
     if len(sys.argv) < 2:
         print(f"Usage: {sys.argv[0]} image_path [width]\n")
         print("Options:")
-        print("  width     : Output width in characters (default=80)")
+        print("  width     : Output width in characters (default=100)")
         sys.exit(1)
     
     # Get parameters
