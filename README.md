@@ -2,8 +2,11 @@
 Converts images to ascii escape codes for more interesting MOTD Banners
 
 Couple of things going on here:
+
   -Foreground characters are ` .-+*#%@$` to simulate luminance
+  
   -Foreground colours are selected by sampling the upper half of a vertical pxel "doublet"
+  
   -Background colours are selected by sampling the bottom half of the same
 
 That's about it.
